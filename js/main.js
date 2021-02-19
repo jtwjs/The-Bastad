@@ -36,7 +36,7 @@
             content: document.querySelector('#trailer .content'),
             canvas: document.querySelector('#trailer .image-blend-canvas'),
             context: document.querySelector('#trailer .image-blend-canvas').getContext('2d'),
-            imagesPath: '../assets/2/trailer/trailer1.jpg',
+            imagesPath: './assets/trailer/trailer1.jpg',
             images: '',
         },
         values: {
@@ -52,7 +52,7 @@
             content: document.querySelector('#bekijk-film .content'),
             canvas: document.querySelector('#bekijk-film .image-blend-canvas'),
             context: document.querySelector('#bekijk-film .image-blend-canvas').getContext('2d'),
-            imagesPath: '../assets/2/film/film1.jpg',
+            imagesPath: './assets/film/film1.jpg',
             images: '',
         },
         values: {
@@ -68,7 +68,7 @@
             content: document.querySelector('#over .content'),
             canvas: document.querySelector('#over .image-blend-canvas'),
             context: document.querySelector('#over .image-blend-canvas').getContext('2d'),
-            imagesPath: '../assets/2/over/over1.jpg',
+            imagesPath: './assets/over/over1.jpg',
             images: '',
         },
         values: {
@@ -84,7 +84,7 @@
             content: document.querySelector('#de-makers .content'),
             canvas: document.querySelector('#de-makers .image-blend-canvas'),
             context: document.querySelector('#de-makers .image-blend-canvas').getContext('2d'),
-            imagesPath: '../assets/2/makers/makers3.jpg',
+            imagesPath: './assets/makers/makers3.jpg',
             images: '',
         },
         values: {
@@ -100,7 +100,7 @@
             content: document.querySelector('#pers .content'),
             canvas: document.querySelector('#pers .image-blend-canvas'),
             context: document.querySelector('#pers .image-blend-canvas').getContext('2d'),
-            imagesPath: '../assets/2/pers/pers1.jpg',
+            imagesPath: './assets/pers/pers1.jpg',
             images: '',
         },
         values: {
